@@ -1,0 +1,12 @@
+
+body {
+    color: #ffffff;
+}
+
+a {
+    color: cyan;
+}
+
+pre, code, span {
+    font-family: "Fira Code", "JetBrains Mono";
+}
